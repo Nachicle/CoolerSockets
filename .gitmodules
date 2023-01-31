@@ -1,0 +1,3 @@
+[submodule "lib/CoolSockets"]
+	path = lib/CoolSockets
+	url = https://github.com/Nachicle/CoolSockets
